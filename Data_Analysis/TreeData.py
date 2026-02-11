@@ -39,3 +39,4 @@ with open("tree_data_edit.csv", "w") as outfile:
     
     for i in range(len(ids)):
         outfile.write(f"{ids[i]},{lat[i]},{lon[i]},{height[i]},{deviation[i]}\n")
+input()
