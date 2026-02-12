@@ -10,4 +10,4 @@ It writes the original data plus deviations into a new CSV file.
 
 
 # Acknowledgements
-I'd like to acknowledge Dr.Rumpf for his guidence that led me to complete this assignment, and ChatGPT for correcting syntax issues and code assistance for part four of the assignment.
+I'd like to acknowledge Dr.Rumpf for his guidance that led me to complete this assignment, and ChatGPT for correcting syntax issues and code assistance for part four of the assignment.
